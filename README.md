@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kaustubh Srivastava</h1>
-
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Kaustubh1xx7/Kaustubh1xx7/main/intro-gif.gif" alt="👋 Hi there! I'm Kaustubh Srivastava." title="👋 Hi there! I'm Kaustubh Srivastava."/>
+</h1>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kaustubh1xx7&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubh1xx7" /> 
 </p>
