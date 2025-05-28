@@ -34,5 +34,4 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 </p>
 
-<!-- ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaustubh1xx7&show_icons=true&theme=radical) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh1xx7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
